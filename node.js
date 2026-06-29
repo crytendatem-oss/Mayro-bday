@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 });
 
-const musica = new Audio("img/pinkbubblegum.mp3");
+const musica = new Audio("cositos/pinkbubblegum.mp3");
 const imagen = document.getElementById("sonido")
 
 imagen.addEventListener('click', () => {
